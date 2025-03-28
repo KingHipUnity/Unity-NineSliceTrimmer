@@ -1,0 +1,8 @@
+{
+    "name": "com.kinghip.nine_slice_trimmer",
+    "displayName": "[KH] Nine Slice Trimmer",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "description": "A Unity Editor tool that trims the center slice of a 9-Slice Sprite while preserving the outer edges. This reduces texture size while keeping the sprite's slicing functionality.",
+    "dependencies": {}
+    }
